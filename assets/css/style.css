@@ -494,12 +494,4 @@ footer .medicenter_contacts {
         flex-direction: column;
         justify-content: space-around;
     }
-    
-    .widget_title_text {
-        display: none;
-    }
-
-    .widget_title_bar {
-        display: none;
-    }
 }
